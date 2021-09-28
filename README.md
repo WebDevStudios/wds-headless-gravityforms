@@ -1,3 +1,9 @@
 # WDS Headless Gravity Forms
 
-Please see <https://webdevstudios.github.io/nextjs-wordpress-starter/> for more information.
+WDS Headless extension handling Gravity Forms functionality. Please see <https://webdevstudios.github.io/nextjs-wordpress-starter/> for more information.
+
+## Install
+
+```bash
+composer require webdevstudios/wds-headless-gravityforms
+```
